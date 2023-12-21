@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Turbootzz&layout=compact&theme=transparent) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Turbootzz&repo=github-readme-stats&theme=transparent)](https://github.com/Turbootzz/Turboot)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Turbootzz&layout=compact&theme=transparent)
