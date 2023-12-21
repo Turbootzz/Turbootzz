@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Turbootzz&layout=compact&theme=transparent)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turbootzz&layout=compact&theme=transparent" />
